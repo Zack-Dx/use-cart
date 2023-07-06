@@ -1,5 +1,5 @@
 {
-  "name": "use-cart",
+  "name": "cart-it",
   "version": "1.0.0",
   "description": "A custom hook for managing a shopping cart",
   "main": "useCart.js",
