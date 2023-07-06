@@ -1,0 +1,21 @@
+{
+  "name": "use-cart",
+  "version": "1.0.0",
+  "description": "A custom hook for managing a shopping cart",
+  "main": "useCart.js",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "hooks",
+    "shopping",
+    "cart"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zack-Dx/use-cart"
+  },
+  "author": "Zack Dx",
+  "dependencies": {
+    "react": "^16.0.0"
+  }
+}
