@@ -1,7 +1,7 @@
 {
   "name": "cart-it",
-  "version": "1.0.1",
-  "description": "A custom hook for managing a shopping cart",
+  "version": "1.0.2",
+  "description": "A custom hook for managing a shopping cart using only the localStorage feature of web browsers. ",
   "main": "useCart.js",
   "license": "MIT",
   "keywords": [
